@@ -1,0 +1,9 @@
+{
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.defaultInterpreterPath": "C:/Users/AlhousseiniDiakite/Documents/python-3.10.0-embed-amd64/python.exe",
+    "python.terminal.executeInFileDir": true
+}
